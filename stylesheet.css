@@ -24,6 +24,8 @@ h1,p{
     align-items: center;
     padding-bottom: 10px;
     overflow: hidden;
+    width:40%;
+    
 }
 p{
     color: hsl(220, 15%, 55%);
