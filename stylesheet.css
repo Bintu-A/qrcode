@@ -22,6 +22,7 @@ h1,p{
 }
 .image{
     justify-content: center;
+    border-box:20px;
 }
 p{
     color: hsl(220, 15%, 55%);
