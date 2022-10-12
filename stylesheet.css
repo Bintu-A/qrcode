@@ -8,7 +8,7 @@ body{
 
 }
 .container{
-   width:50%;
+   width:25%;
     margin-left:auto;
     margin-right:auto;
     background-color: white;
@@ -38,4 +38,6 @@ p{
 h1{
    padding-bottom: 10px;
     color: hsl(218, 44%, 22%);
+    size: 12px;
+    font-family: sans-serif;
 }
