@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    overflow:hidden;
 }
 body{
     background-color:  hsl(212, 45%, 89%);
@@ -17,6 +18,8 @@ body{
     margin-top: auto;
     padding:10px;
     overflow: hidden;
+    max-width:150px;
+    max-width:600px;
 }
 h2,p{
     text-align: center;
@@ -27,14 +30,16 @@ h2,p{
     display: block;
     overflow: hidden;
     width:100%;
-    margin:15px;
-    padding: auto;
+    margin-left:15px;
+    margin-right:15px;
+    margin-top:10px;
+    margin-bottom:5px;
     border-radius: 20px;
 }
 p{
     color: hsl(220, 15%, 55%);
     padding-bottom: 30px;
-   
+   font-size:15px;
     
 }
 h2{
