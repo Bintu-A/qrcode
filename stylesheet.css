@@ -1,4 +1,4 @@
-*{
+ *{
     box-sizing: border-box;
 }
 body{
@@ -15,29 +15,31 @@ body{
     border-radius: 10px;
     margin-top: auto;
     margin-top: auto;
-    pading:10px;
+    padding:10px;
+    overflow: hidden;
 }
-h1,p{
+h2,p{
     text-align: center;
      margin:10px;
 }
 .image{
     justify-content: center;
-    padding-bottom: 10px;
-    overflow: hidden;
-    width:50%;
-    margin:15px;
     
+    overflow: hidden;
+    width:80%;
+    margin:auto;
+    padding: auto;
 }
 p{
     color: hsl(220, 15%, 55%);
-    padding-bottom: 20px;
+    padding-bottom: 30px;
    
     
 }
-h1{
+h2{
    padding-bottom: 10px;
     color: hsl(218, 44%, 22%);
-    size: 12px;
+    
     font-family: sans-serif;
+    font-weight: bold;
 }
